@@ -1,11 +1,11 @@
 fotoboxCfg = {}
 
-fotoboxCfg['window-width']    = 1280
-fotoboxCfg['window-height']   = 1024
+fotoboxCfg['window-width']    = 1920
+fotoboxCfg['window-height']   = 1080
 
 # Depending on the camera used previews might got smaller than set here
-fotoboxCfg['cam-p-width']     = 960
-fotoboxCfg['cam-p-height']    = 720
+fotoboxCfg['cam-p-width']     = 1920
+fotoboxCfg['cam-p-height']    = 1080
 fotoboxCfg['cam-p-x']         = 9
 fotoboxCfg['cam-p-y']         = 261
 fotoboxCfg['cam-p-hflip']     = True # False = Like a camera, True = Like a mirror
@@ -17,8 +17,8 @@ fotoboxCfg['cam-c-hflip']     = False # False = Like a camera, True = Like a mir
 
 fotoboxCfg['nopi']            = False #True = Skip rasperry specific modules
 
-fotoboxCfg['temp']            = '/tmp/fotobox/'
-fotoboxCfg['save']            = '/home/pi/fotobox/images/'
+fotoboxCfg['temp']            = '/home/paul/Pictures/temp'
+fotoboxCfg['save']            = '/home/paul/Pictures/photobox'
 
 fotoboxCfg['countdown']       = 3 # Seconds
 
@@ -32,6 +32,7 @@ fotoboxText['info-view']    = 'Hier kannst du dir die Fotos der Veranstaltung di
 
 fotoboxText['btn-capture']  = 'Aufnahme ▶'
 fotoboxText['btn-view']     = 'Ansehen ▶'
+fotoboxText['btn-print']     = 'Drucken ▶'
 fotoboxText['btn-save']     = 'Speichern ▶'
 fotoboxText['btn-recapture'] = '<span style="font-size: 75%">Neuer Versuch</span> ▶'
 fotoboxText['btn-cancel']   = 'Abbruch ▶'
