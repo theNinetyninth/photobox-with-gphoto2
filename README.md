@@ -1,10 +1,14 @@
-# Raspberry Pi Fotobox
+# Raspberry Pi Fotobox with gphoto2
 
 ## Was?
-Dieses Repository enthält Beschreibung und Scripte zum Bau einer Fotobox auf Basis des Raspberry Pi 3.
+Dieses Repository enthält Beschreibung und Scripte zum Bau einer Fotobox auf Basis des Raspberry Pi 3 und einer über gphoto2 angebundenen Kamera.
+
+## Warum dieser Fork?
+Das Original verwendet eine Pi-Cam. Mangels dieser und für etwas bessere Fotos wurde eine Canon-Kamera mit Anwendung gphoto2 angebunden. Der Text unten entstammt dem ursprünglichen Projekt:
 
 ## Warum?
 Warum nicht?
+
 
 ## Womit?
 Das Projekt wurde durch [Reichelt elektronik](https://www.reichelt.de) unterstützt. Es wurden folgende Bauteile verwendet:
