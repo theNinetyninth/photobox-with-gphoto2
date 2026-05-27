@@ -4,7 +4,7 @@
 Dieses Repository enthält Beschreibung und Scripte zum Bau einer Fotobox auf Basis des Raspberry Pi 3 und einer über gphoto2 angebundenen Kamera.
 
 ## Warum dieser Fork?
-Das Original verwendet eine Pi-Cam. Mangels dieser und für etwas bessere Fotos wurde eine Canon-Kamera mit Anwendung gphoto2 angebunden. Der weitere Text unten entstammt dem ursprünglichen Projekt mit eienr Raspberry Pi Camera:
+Das Original verwendet eine Raspberry Pi Camera. Mangels dieser und für etwas bessere Fotos wurde eine Canon-Kamera mit der Anwendung gphoto2 angebunden. Der weitere Text unten entstammt dem ursprünglichen Projekt mit eienr Raspberry Pi Camera:
 
 ----
 
